@@ -35,7 +35,7 @@ Imagine robotics education is a vast ocean. The **Minibot** is your well-equippe
 
 Yes, it might sound complex. But don't worry! This tutorial walks you through every single step—from selecting components to running autonomous navigation. We'll build everything modularly, so you can understand each subsystem before integrating the complete system. It's educational, it's practical, and honestly...it's the robot platform you wish existed when you started learning robotics!
 
-![alt text](system.png)
+![alt text](ur5.gif)
 
 Before we dive into the build process, here's an overview of the Minibot's key subsystems:
 
