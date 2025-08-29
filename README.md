@@ -46,7 +46,7 @@ Think of this as your **training ground for industrial robotics**. Instead of de
 
 <div class="section-border">
 
-## 5. How to Run
+## 3. How to Run
 
    ```bash
    cd ~/catkin_ws
