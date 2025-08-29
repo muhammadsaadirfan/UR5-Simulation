@@ -52,7 +52,7 @@ Think of this as your **training ground for industrial robotics**. Instead of de
    cd ~/catkin_ws
    mkdir src
    cd src
-   git clone 
+   git clone https://github.com/muhammadsaadirfan/UR5-Simulation.git
    colcon build
    source install setup.bash
    ros2 launch moveit demo.launch.py
