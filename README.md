@@ -56,7 +56,7 @@ Think of this as your **training ground for industrial robotics**. Instead of de
    colcon build
    source install setup.bash
    ros2 launch moveit demo.launch.py
-
+   ```
 ---
 ## 🙏 Thank You!
 
