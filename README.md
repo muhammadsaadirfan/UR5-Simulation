@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-#### This project demonstrates how to simulate, control, and plan motions for the **Universal Robot 5 (UR5)** robotic arm using **ROS 1 Melodic**, **Gazebo**, and **MoveIt!**. You'll learn how to launch UR5 in simulation, set up path planning pipelines, and experiment with hardware-like control.
+#### This project demonstrates how to simulate, control, and plan motions for the **Universal Robot 5 (UR5)** robotic arm using **ROS 2 Humble**, **Gazebo**, and **MoveIt!**. You'll learn how to launch UR5 in simulation, set up path planning pipelines, and experiment with hardware-like control.
 
 </div>
 
